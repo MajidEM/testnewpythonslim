@@ -1,1 +1,1 @@
-FROM python:3.12.3-slim
+FROM golang:1.24-alpine
